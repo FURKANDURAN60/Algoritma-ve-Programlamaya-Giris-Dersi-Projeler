@@ -1,0 +1,38 @@
+1-Başla,
+2-Dışarıdan n (öğrenci sayısı al),
+3-Dışarıdan vize , proje1 , proje2 , donemodev , final gir,  ort1=0 , ort2=0 , ortson=0 ,i=1 ,
+4-Yaz , Ogrenci Sayisini Giriniz : n,
+5-Eğer i>n ise git 34
+6-Dışarıdan vize  gir ,
+7-Dışarıdan proje1  gir ,
+8-Dışarıdan proje2  gir ,
+9-Dışarıdan donemodev  gir ,
+10-Dışarıdan final  gir ,
+11-ort1=(vize*0.45)+(proje1*0.2)+(proje2*0.2)+(donemodev*0.15),
+12-ort2=final,
+13-ortson=ort1*0.45+ort2*0.55,
+14-Eğer ortson>=90.00 && ortson<=100.00 ise git 24,
+15-Eğer ortson>=85.00 && ortson<=89.99  ise git 25,
+16-Eğer ortson>=80.00 && ortson<=84.99  ise git 26,
+17-Eğer ortson>=75.00 && ortson<=79.99  ise git 27,
+18-Eğer ortson>=65.00 && ortson<=74.99  ise git 28,
+19-Eğer ortson>=58.00 && ortson<=64.99  ise git 29,
+20-Eğer ortson>=50.00 && ortson<=57.99  ise git 30,
+21-Eğer ortson>=40.00 && ortson<=49.99  ise git 31,
+22-Eğer ortson>=0.00  && ortson<=39.99  ise git 32,
+23-değilse Yaz LUTFEN 0-100 ARASI NOT GIRISI YAPINIZ!,
+24-Yaz i. Ogrencinin Basari Notu ---> ortson ,Yaz i. Ogrencinin Can Egrisine Gore Basari Notu ---> AA git 33,
+25-Yaz i. Ogrencinin Basari Notu ---> ortson ,Yaz i. Ogrencinin Can Egrisine Gore Basari Notu ---> BA git 33,
+26-Yaz i. Ogrencinin Basari Notu ---> ortson ,Yaz i. Ogrencinin Can Egrisine Gore Basari Notu ---> BB git 33,
+27-Yaz i. Ogrencinin Basari Notu ---> ortson ,Yaz i. Ogrencinin Can Egrisine Gore Basari Notu ---> CB git 33,
+28-Yaz i. Ogrencinin Basari Notu ---> ortson ,Yaz i. Ogrencinin Can Egrisine Gore Basari Notu ---> CC git 33,
+29-Yaz i. Ogrencinin Basari Notu ---> ortson ,Yaz i. Ogrencinin Can Egrisine Gore Basari Notu ---> DC git 33,
+30-Yaz i. Ogrencinin Basari Notu ---> ortson ,Yaz i. Ogrencinin Can Egrisine Gore Basari Notu ---> DD git 33,
+31-Yaz i. Ogrencinin Basari Notu ---> ortson ,Yaz i. Ogrencinin Can Egrisine Gore Basari Notu ---> FD git 33,
+32-Yaz i. Ogrencinin Basari Notu ---> ortson ,Yaz i. Ogrencinin Can Egrisine Gore Basari Notu ---> FF git 33,
+33-i=i+1 git 5
+34-dur.
+
+
+
+
