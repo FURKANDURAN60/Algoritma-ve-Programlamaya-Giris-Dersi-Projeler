@@ -1,0 +1,1 @@
+Bu projeler, 2021-2022 Güz Dönemi'nde Algoritma ve Programlamaya Giriş dersinde gerçekleştirdiğim ilk projelerdir. Her bir proje, sözde kod akış diyagramları ve normal kodları içermektedir. Kodlama ve algoritmalar hakkında yeni bilgiler edindiğim bu dönemde, eksiklikler olabilir. Bu projeler, gelişim sürecimin bir parçası olarak değerlendirilmelidir. :)
